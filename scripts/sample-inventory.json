@@ -1,0 +1,122 @@
+[
+  {
+    "shopify_handle": "example-bergamot-noir",
+    "title": "Bergamot Noir",
+    "vendor": "Maison Lumière",
+    "price": 2450,
+    "attrs": {
+      "scent_families": ["woody", "citrus", "spicy"],
+      "top_notes": ["bergamot", "pink pepper"],
+      "mid_notes": ["cedar", "cardamom"],
+      "base_notes": ["vetiver", "musk"],
+      "occasions": ["office", "everyday", "date_night"],
+      "mood": "elegant_sophisticated",
+      "strength": "moderate",
+      "longevity_hours": 6,
+      "projection": "moderate",
+      "climate_fit": ["ac_office", "warm_evening"],
+      "gender_position": "unisex",
+      "classification": "niche"
+    }
+  },
+  {
+    "shopify_handle": "example-ocean-veil",
+    "title": "Ocean Veil",
+    "vendor": "Aqua Studio",
+    "price": 1750,
+    "attrs": {
+      "scent_families": ["aquatic", "fresh", "citrus"],
+      "top_notes": ["sea salt", "lemon"],
+      "mid_notes": ["lotus", "jasmine"],
+      "base_notes": ["driftwood", "musk"],
+      "occasions": ["everyday", "holiday"],
+      "mood": "clean_refreshing",
+      "strength": "light",
+      "longevity_hours": 4,
+      "projection": "intimate",
+      "climate_fit": ["hot_daytime", "any_weather"],
+      "gender_position": "unisex",
+      "classification": "designer"
+    }
+  },
+  {
+    "shopify_handle": "example-velvet-oud",
+    "title": "Velvet Oud",
+    "vendor": "House of Zahra",
+    "price": 4200,
+    "attrs": {
+      "scent_families": ["oud", "amber", "woody", "spicy"],
+      "top_notes": ["saffron", "cardamom"],
+      "mid_notes": ["rose", "oud"],
+      "base_notes": ["amber", "sandalwood", "musk"],
+      "occasions": ["evening_events", "weddings_special"],
+      "mood": "luxurious_powerful",
+      "strength": "very_strong",
+      "longevity_hours": 10,
+      "projection": "heavy",
+      "climate_fit": ["warm_evening"],
+      "gender_position": "unisex",
+      "classification": "niche"
+    }
+  },
+  {
+    "shopify_handle": "example-pink-peony",
+    "title": "Pink Peony",
+    "vendor": "Belle Fleur",
+    "price": 1350,
+    "attrs": {
+      "scent_families": ["floral", "fruity", "sweet"],
+      "top_notes": ["peony", "raspberry"],
+      "mid_notes": ["rose", "peach"],
+      "base_notes": ["vanilla", "musk"],
+      "occasions": ["date_night", "gift", "everyday"],
+      "mood": "soft_romantic",
+      "strength": "moderate",
+      "longevity_hours": 5,
+      "projection": "moderate",
+      "climate_fit": ["ac_office", "any_weather"],
+      "gender_position": "women",
+      "classification": "designer"
+    }
+  },
+  {
+    "shopify_handle": "example-leather-tabac",
+    "title": "Leather & Tabac",
+    "vendor": "Maison Lumière",
+    "price": 3100,
+    "attrs": {
+      "scent_families": ["leather", "tobacco", "woody", "amber"],
+      "top_notes": ["black pepper", "clove"],
+      "mid_notes": ["leather", "tobacco leaf"],
+      "base_notes": ["amber", "oakmoss"],
+      "occasions": ["evening_events", "office"],
+      "mood": "dark_mysterious",
+      "strength": "strong",
+      "longevity_hours": 8,
+      "projection": "heavy",
+      "climate_fit": ["ac_office", "warm_evening"],
+      "gender_position": "men",
+      "classification": "niche"
+    }
+  },
+  {
+    "shopify_handle": "example-vanilla-sky",
+    "title": "Vanilla Sky",
+    "vendor": "Belle Fleur",
+    "price": 990,
+    "attrs": {
+      "scent_families": ["vanilla", "gourmand", "sweet"],
+      "top_notes": ["caramel", "orange blossom"],
+      "mid_notes": ["vanilla", "tonka bean"],
+      "base_notes": ["musk", "sandalwood"],
+      "occasions": ["everyday", "gift"],
+      "mood": "sweet_playful",
+      "strength": "light",
+      "longevity_hours": 4,
+      "projection": "intimate",
+      "climate_fit": ["any_weather"],
+      "gender_position": "women",
+      "classification": "designer"
+    }
+  }
+]
