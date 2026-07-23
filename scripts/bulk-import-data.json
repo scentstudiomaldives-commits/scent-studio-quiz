@@ -1,0 +1,5339 @@
+[
+  {
+    "title": "Elie Saab Girl of Now Shine",
+    "scent_families": [
+      "floral",
+      "gourmand",
+      "sweet",
+      "amber"
+    ],
+    "top_notes": [
+      "pineapple",
+      "pear",
+      "mandarin",
+      "pistachio"
+    ],
+    "mid_notes": [
+      "orange blossom",
+      "almond",
+      "jasmine",
+      "ylang-ylang"
+    ],
+    "base_notes": [
+      "iris",
+      "patchouli",
+      "vanilla"
+    ],
+    "occasions": [
+      "everyday",
+      "office",
+      "date_night"
+    ],
+    "mood": "sweet_playful",
+    "strength": "strong",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Chloe Rose Naturelle Intense",
+    "scent_families": [
+      "floral",
+      "woody"
+    ],
+    "top_notes": [
+      "bergamot",
+      "neroli"
+    ],
+    "mid_notes": [
+      "rose",
+      "oak"
+    ],
+    "base_notes": [
+      "sandalwood",
+      "cedar"
+    ],
+    "occasions": [
+      "everyday",
+      "office",
+      "date_night"
+    ],
+    "mood": "elegant_sophisticated",
+    "strength": "moderate",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Giorgio Armani Stronger With You Tobacco",
+    "scent_families": [
+      "amber",
+      "spicy",
+      "tobacco",
+      "woody"
+    ],
+    "top_notes": [
+      "pink pepper",
+      "black pepper",
+      "cardamom",
+      "sage"
+    ],
+    "mid_notes": [
+      "tobacco",
+      "chestnut",
+      "cinnamon leaf",
+      "chili pepper"
+    ],
+    "base_notes": [
+      "bourbon vanilla",
+      "amber",
+      "guaiac wood",
+      "benzoin"
+    ],
+    "occasions": [
+      "evening_events",
+      "date_night"
+    ],
+    "mood": "dark_mysterious",
+    "strength": "strong",
+    "climate_fit": [
+      "warm_evening",
+      "ac_office"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Giorgio Armani Stronger With You Parfum",
+    "scent_families": [
+      "amber",
+      "spicy",
+      "vanilla"
+    ],
+    "top_notes": [
+      "pink pepper",
+      "mandarin"
+    ],
+    "mid_notes": [
+      "lavender",
+      "cinnamon",
+      "sage"
+    ],
+    "base_notes": [
+      "chestnut",
+      "vanilla",
+      "leather"
+    ],
+    "occasions": [
+      "evening_events",
+      "date_night"
+    ],
+    "mood": "luxurious_powerful",
+    "strength": "strong",
+    "climate_fit": [
+      "warm_evening",
+      "ac_office"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Maison Crivelli Oud Maracuja",
+    "scent_families": [
+      "oud",
+      "fruity",
+      "woody",
+      "leather"
+    ],
+    "top_notes": [
+      "passionfruit",
+      "saffron",
+      "turkish rose"
+    ],
+    "mid_notes": [
+      "oud",
+      "patchouli",
+      "benzoin"
+    ],
+    "base_notes": [
+      "leather",
+      "amber",
+      "vanilla",
+      "labdanum"
+    ],
+    "occasions": [
+      "evening_events",
+      "weddings_special"
+    ],
+    "mood": "bold_seductive",
+    "strength": "very_strong",
+    "climate_fit": [
+      "warm_evening"
+    ],
+    "gender_position": "unisex",
+    "classification": "niche"
+  },
+  {
+    "title": "Lancome Idole Power Intense",
+    "scent_families": [
+      "floral",
+      "fruity",
+      "woody"
+    ],
+    "top_notes": [
+      "pomarose"
+    ],
+    "mid_notes": [
+      "damascena rose"
+    ],
+    "base_notes": [
+      "sandalwood"
+    ],
+    "occasions": [
+      "everyday",
+      "office",
+      "date_night"
+    ],
+    "mood": "elegant_sophisticated",
+    "strength": "strong",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Jean Paul Gaultier Le Male Elixir",
+    "scent_families": [
+      "amber",
+      "spicy",
+      "sweet",
+      "gourmand"
+    ],
+    "top_notes": [
+      "lavender",
+      "mint"
+    ],
+    "mid_notes": [
+      "tonka bean",
+      "benzoin",
+      "honey"
+    ],
+    "base_notes": [
+      "vanilla",
+      "tobacco"
+    ],
+    "occasions": [
+      "evening_events",
+      "date_night"
+    ],
+    "mood": "bold_seductive",
+    "strength": "very_strong",
+    "climate_fit": [
+      "warm_evening"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Burberry Hero Parfum",
+    "scent_families": [
+      "woody",
+      "spicy",
+      "amber"
+    ],
+    "top_notes": [
+      "amyris"
+    ],
+    "mid_notes": [
+      "cedarwood"
+    ],
+    "base_notes": [
+      "cypriol oil"
+    ],
+    "occasions": [
+      "office",
+      "everyday"
+    ],
+    "mood": "dark_mysterious",
+    "strength": "strong",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Yves Saint Laurent Myslf L'Absolu",
+    "scent_families": [
+      "woody",
+      "spicy",
+      "floral"
+    ],
+    "top_notes": [
+      "bergamot",
+      "ginger",
+      "cardamom"
+    ],
+    "mid_notes": [
+      "orange blossom"
+    ],
+    "base_notes": [
+      "patchouli"
+    ],
+    "occasions": [
+      "evening_events",
+      "office"
+    ],
+    "mood": "luxurious_powerful",
+    "strength": "very_strong",
+    "climate_fit": [
+      "ac_office",
+      "warm_evening"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Versace Crystal Noir",
+    "scent_families": [
+      "floral",
+      "amber",
+      "musk"
+    ],
+    "top_notes": [
+      "ginger",
+      "gardenia"
+    ],
+    "mid_notes": [
+      "amber",
+      "musk"
+    ],
+    "base_notes": [
+      "cedar",
+      "tonka bean"
+    ],
+    "occasions": [
+      "evening_events",
+      "date_night"
+    ],
+    "mood": "dark_mysterious",
+    "strength": "moderate",
+    "climate_fit": [
+      "warm_evening",
+      "ac_office"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Versace Bright Crystal",
+    "scent_families": [
+      "floral",
+      "fruity",
+      "aquatic"
+    ],
+    "top_notes": [
+      "pomegranate",
+      "yuzu"
+    ],
+    "mid_notes": [
+      "peony",
+      "magnolia",
+      "lotus"
+    ],
+    "base_notes": [
+      "musk",
+      "amber"
+    ],
+    "occasions": [
+      "everyday",
+      "office"
+    ],
+    "mood": "clean_refreshing",
+    "strength": "light",
+    "climate_fit": [
+      "hot_daytime",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Tiffany & Co Rose Gold Intense",
+    "scent_families": [
+      "floral",
+      "fruity"
+    ],
+    "top_notes": [
+      "mandarin",
+      "pear"
+    ],
+    "mid_notes": [
+      "iris",
+      "patchouli"
+    ],
+    "base_notes": [
+      "musk",
+      "sandalwood"
+    ],
+    "occasions": [
+      "everyday",
+      "date_night"
+    ],
+    "mood": "elegant_sophisticated",
+    "strength": "moderate",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Tiffany & Co Rose Gold",
+    "scent_families": [
+      "floral",
+      "fruity"
+    ],
+    "top_notes": [
+      "pear",
+      "mandarin"
+    ],
+    "mid_notes": [
+      "iris"
+    ],
+    "base_notes": [
+      "patchouli",
+      "musk"
+    ],
+    "occasions": [
+      "everyday",
+      "office"
+    ],
+    "mood": "soft_romantic",
+    "strength": "light",
+    "climate_fit": [
+      "hot_daytime",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Parfums de Marly Palatine",
+    "scent_families": [
+      "citrus",
+      "aromatic",
+      "woody"
+    ],
+    "top_notes": [
+      "bergamot",
+      "mandarin",
+      "basil"
+    ],
+    "mid_notes": [
+      "fig",
+      "rosemary"
+    ],
+    "base_notes": [
+      "musk",
+      "cedar"
+    ],
+    "occasions": [
+      "everyday",
+      "office"
+    ],
+    "mood": "clean_refreshing",
+    "strength": "moderate",
+    "climate_fit": [
+      "hot_daytime",
+      "ac_office"
+    ],
+    "gender_position": "unisex",
+    "classification": "niche"
+  },
+  {
+    "title": "Nishane Hacivat",
+    "scent_families": [
+      "citrus",
+      "fruity",
+      "musk"
+    ],
+    "top_notes": [
+      "grapefruit",
+      "pear"
+    ],
+    "mid_notes": [
+      "freesia"
+    ],
+    "base_notes": [
+      "musk",
+      "cedar"
+    ],
+    "occasions": [
+      "everyday",
+      "date_night"
+    ],
+    "mood": "clean_refreshing",
+    "strength": "moderate",
+    "climate_fit": [
+      "hot_daytime",
+      "any_weather"
+    ],
+    "gender_position": "unisex",
+    "classification": "niche"
+  },
+  {
+    "title": "Narciso Rodriguez All of Me Intense",
+    "scent_families": [
+      "musk",
+      "woody",
+      "amber"
+    ],
+    "top_notes": [
+      "orange blossom"
+    ],
+    "mid_notes": [
+      "musk"
+    ],
+    "base_notes": [
+      "woody notes",
+      "amber"
+    ],
+    "occasions": [
+      "evening_events",
+      "date_night"
+    ],
+    "mood": "elegant_sophisticated",
+    "strength": "strong",
+    "climate_fit": [
+      "warm_evening",
+      "ac_office"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Montblanc Signature Absolute",
+    "scent_families": [
+      "floral",
+      "gourmand"
+    ],
+    "top_notes": [
+      "bergamot"
+    ],
+    "mid_notes": [
+      "jasmine",
+      "vanilla"
+    ],
+    "base_notes": [
+      "musk",
+      "sandalwood"
+    ],
+    "occasions": [
+      "everyday",
+      "date_night"
+    ],
+    "mood": "sweet_playful",
+    "strength": "moderate",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Montblanc Legend Night",
+    "scent_families": [
+      "amber",
+      "woody",
+      "aromatic"
+    ],
+    "top_notes": [
+      "lavender",
+      "bergamot"
+    ],
+    "mid_notes": [
+      "geranium"
+    ],
+    "base_notes": [
+      "tonka bean",
+      "woody notes"
+    ],
+    "occasions": [
+      "evening_events",
+      "office"
+    ],
+    "mood": "elegant_sophisticated",
+    "strength": "moderate",
+    "climate_fit": [
+      "warm_evening",
+      "ac_office"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Mancera Instant Crush",
+    "scent_families": [
+      "fruity",
+      "floral",
+      "gourmand"
+    ],
+    "top_notes": [
+      "pear",
+      "mandarin"
+    ],
+    "mid_notes": [
+      "rose"
+    ],
+    "base_notes": [
+      "vanilla",
+      "musk"
+    ],
+    "occasions": [
+      "everyday",
+      "date_night"
+    ],
+    "mood": "sweet_playful",
+    "strength": "strong",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "niche"
+  },
+  {
+    "title": "Mancera Tonka Cola",
+    "scent_families": [
+      "gourmand",
+      "sweet",
+      "vanilla"
+    ],
+    "top_notes": [
+      "cola accord"
+    ],
+    "mid_notes": [
+      "tonka bean"
+    ],
+    "base_notes": [
+      "vanilla",
+      "musk"
+    ],
+    "occasions": [
+      "everyday",
+      "gift"
+    ],
+    "mood": "sweet_playful",
+    "strength": "strong",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "unisex",
+    "classification": "niche"
+  },
+  {
+    "title": "Mancera Roses Vanille",
+    "scent_families": [
+      "floral",
+      "vanilla",
+      "sweet"
+    ],
+    "top_notes": [
+      "rose"
+    ],
+    "mid_notes": [
+      "rose"
+    ],
+    "base_notes": [
+      "vanilla",
+      "musk"
+    ],
+    "occasions": [
+      "date_night",
+      "gift"
+    ],
+    "mood": "soft_romantic",
+    "strength": "strong",
+    "climate_fit": [
+      "ac_office",
+      "warm_evening"
+    ],
+    "gender_position": "women",
+    "classification": "niche"
+  },
+  {
+    "title": "Mancera Coco Vanille",
+    "scent_families": [
+      "gourmand",
+      "sweet",
+      "vanilla"
+    ],
+    "top_notes": [
+      "coconut"
+    ],
+    "mid_notes": [
+      "vanilla"
+    ],
+    "base_notes": [
+      "musk",
+      "sandalwood"
+    ],
+    "occasions": [
+      "holiday",
+      "everyday"
+    ],
+    "mood": "sweet_playful",
+    "strength": "strong",
+    "climate_fit": [
+      "hot_daytime",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "niche"
+  },
+  {
+    "title": "Mancera Cedrat Boise",
+    "scent_families": [
+      "citrus",
+      "woody"
+    ],
+    "top_notes": [
+      "citron",
+      "bergamot"
+    ],
+    "mid_notes": [
+      "cedar"
+    ],
+    "base_notes": [
+      "woody notes",
+      "musk"
+    ],
+    "occasions": [
+      "everyday",
+      "office"
+    ],
+    "mood": "clean_refreshing",
+    "strength": "strong",
+    "climate_fit": [
+      "hot_daytime",
+      "ac_office"
+    ],
+    "gender_position": "unisex",
+    "classification": "niche"
+  },
+  {
+    "title": "Jimmy Choo Rose Passion",
+    "scent_families": [
+      "floral",
+      "fruity"
+    ],
+    "top_notes": [
+      "raspberry"
+    ],
+    "mid_notes": [
+      "rose"
+    ],
+    "base_notes": [
+      "musk"
+    ],
+    "occasions": [
+      "everyday",
+      "date_night"
+    ],
+    "mood": "soft_romantic",
+    "strength": "moderate",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Jimmy Choo Illicit Flower",
+    "scent_families": [
+      "floral",
+      "fruity"
+    ],
+    "top_notes": [
+      "pear",
+      "mandarin"
+    ],
+    "mid_notes": [
+      "jasmine"
+    ],
+    "base_notes": [
+      "musk",
+      "sandalwood"
+    ],
+    "occasions": [
+      "everyday",
+      "office"
+    ],
+    "mood": "sweet_playful",
+    "strength": "light",
+    "climate_fit": [
+      "hot_daytime",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Givenchy Irresistible Very Floral",
+    "scent_families": [
+      "floral"
+    ],
+    "top_notes": [
+      "rose"
+    ],
+    "mid_notes": [
+      "rose"
+    ],
+    "base_notes": [
+      "musk"
+    ],
+    "occasions": [
+      "everyday",
+      "office"
+    ],
+    "mood": "elegant_sophisticated",
+    "strength": "moderate",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Giorgio Armani Code",
+    "scent_families": [
+      "oriental",
+      "spicy",
+      "woody"
+    ],
+    "top_notes": [
+      "bergamot",
+      "lemon"
+    ],
+    "mid_notes": [
+      "guaiac wood"
+    ],
+    "base_notes": [
+      "tonka bean",
+      "leather"
+    ],
+    "occasions": [
+      "evening_events",
+      "date_night"
+    ],
+    "mood": "luxurious_powerful",
+    "strength": "strong",
+    "climate_fit": [
+      "warm_evening",
+      "ac_office"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Elie Saab Girl of Now",
+    "scent_families": [
+      "oriental",
+      "floral",
+      "gourmand"
+    ],
+    "top_notes": [
+      "pistachio",
+      "pear",
+      "mandarin"
+    ],
+    "mid_notes": [
+      "almond",
+      "orange blossom"
+    ],
+    "base_notes": [
+      "patchouli",
+      "tonka bean"
+    ],
+    "occasions": [
+      "everyday",
+      "gift"
+    ],
+    "mood": "sweet_playful",
+    "strength": "strong",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Coach Wild Rose",
+    "scent_families": [
+      "floral",
+      "fruity"
+    ],
+    "top_notes": [
+      "mandarin",
+      "pear"
+    ],
+    "mid_notes": [
+      "rose"
+    ],
+    "base_notes": [
+      "musk",
+      "amber"
+    ],
+    "occasions": [
+      "everyday"
+    ],
+    "mood": "soft_romantic",
+    "strength": "light",
+    "climate_fit": [
+      "hot_daytime",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Calvin Klein One",
+    "scent_families": [
+      "citrus",
+      "aromatic",
+      "musk"
+    ],
+    "top_notes": [
+      "bergamot",
+      "lemon"
+    ],
+    "mid_notes": [
+      "green notes"
+    ],
+    "base_notes": [
+      "musk",
+      "cedar"
+    ],
+    "occasions": [
+      "everyday",
+      "office"
+    ],
+    "mood": "clean_refreshing",
+    "strength": "light",
+    "climate_fit": [
+      "hot_daytime",
+      "any_weather"
+    ],
+    "gender_position": "unisex",
+    "classification": "designer"
+  },
+  {
+    "title": "Bvlgari Terrae Essence",
+    "scent_families": [
+      "woody",
+      "earthy",
+      "amber"
+    ],
+    "top_notes": [
+      "saffron"
+    ],
+    "mid_notes": [
+      "patchouli"
+    ],
+    "base_notes": [
+      "vetiver",
+      "amber"
+    ],
+    "occasions": [
+      "office",
+      "everyday"
+    ],
+    "mood": "elegant_sophisticated",
+    "strength": "moderate",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Billie Eilish Eilish No2",
+    "scent_families": [
+      "gourmand",
+      "sweet",
+      "vanilla"
+    ],
+    "top_notes": [
+      "red berries"
+    ],
+    "mid_notes": [
+      "vanilla orchid"
+    ],
+    "base_notes": [
+      "sandalwood",
+      "musk"
+    ],
+    "occasions": [
+      "everyday",
+      "gift"
+    ],
+    "mood": "sweet_playful",
+    "strength": "moderate",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Kayali Eden Plush Pear 23",
+    "scent_families": [
+      "fruity",
+      "gourmand",
+      "sweet"
+    ],
+    "top_notes": [
+      "pear"
+    ],
+    "mid_notes": [
+      "vanilla"
+    ],
+    "base_notes": [
+      "musk",
+      "amber"
+    ],
+    "occasions": [
+      "everyday",
+      "gift"
+    ],
+    "mood": "sweet_playful",
+    "strength": "strong",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "niche"
+  },
+  {
+    "title": "Kayali Yum Boujee Marshmallow 81",
+    "scent_families": [
+      "gourmand",
+      "sweet",
+      "vanilla"
+    ],
+    "top_notes": [
+      "marshmallow"
+    ],
+    "mid_notes": [
+      "vanilla"
+    ],
+    "base_notes": [
+      "musk",
+      "caramel"
+    ],
+    "occasions": [
+      "everyday",
+      "gift"
+    ],
+    "mood": "sweet_playful",
+    "strength": "strong",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "niche"
+  },
+  {
+    "title": "Kayali Vanilla 28",
+    "scent_families": [
+      "vanilla",
+      "gourmand",
+      "sweet"
+    ],
+    "top_notes": [
+      "vanilla orchid"
+    ],
+    "mid_notes": [
+      "tonka bean"
+    ],
+    "base_notes": [
+      "musk",
+      "sandalwood"
+    ],
+    "occasions": [
+      "everyday",
+      "gift",
+      "date_night"
+    ],
+    "mood": "sweet_playful",
+    "strength": "strong",
+    "climate_fit": [
+      "ac_office",
+      "warm_evening"
+    ],
+    "gender_position": "women",
+    "classification": "niche"
+  },
+  {
+    "title": "Thomas Kosmala No 4",
+    "scent_families": [
+      "woody",
+      "amber",
+      "spicy"
+    ],
+    "top_notes": [
+      "bergamot"
+    ],
+    "mid_notes": [
+      "spices"
+    ],
+    "base_notes": [
+      "woody notes",
+      "amber"
+    ],
+    "occasions": [
+      "office",
+      "evening_events"
+    ],
+    "mood": "elegant_sophisticated",
+    "strength": "moderate",
+    "climate_fit": [
+      "ac_office",
+      "warm_evening"
+    ],
+    "gender_position": "unisex",
+    "classification": "niche"
+  },
+  {
+    "title": "Maison Margiela Replica On A Date",
+    "scent_families": [
+      "floral",
+      "fruity"
+    ],
+    "top_notes": [
+      "mandarin"
+    ],
+    "mid_notes": [
+      "rose",
+      "jasmine"
+    ],
+    "base_notes": [
+      "musk"
+    ],
+    "occasions": [
+      "date_night"
+    ],
+    "mood": "soft_romantic",
+    "strength": "light",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "niche"
+  },
+  {
+    "title": "Maison Margiela Replica By The Fireplace",
+    "scent_families": [
+      "gourmand",
+      "sweet",
+      "woody"
+    ],
+    "top_notes": [
+      "chestnut"
+    ],
+    "mid_notes": [
+      "clove"
+    ],
+    "base_notes": [
+      "vanilla",
+      "guaiac wood"
+    ],
+    "occasions": [
+      "holiday",
+      "everyday"
+    ],
+    "mood": "sweet_playful",
+    "strength": "moderate",
+    "climate_fit": [
+      "ac_office",
+      "warm_evening"
+    ],
+    "gender_position": "unisex",
+    "classification": "niche"
+  },
+  {
+    "title": "Maison Margiela Replica Flower Market",
+    "scent_families": [
+      "floral"
+    ],
+    "top_notes": [
+      "mimosa"
+    ],
+    "mid_notes": [
+      "freesia"
+    ],
+    "base_notes": [
+      "musk"
+    ],
+    "occasions": [
+      "everyday",
+      "office"
+    ],
+    "mood": "clean_refreshing",
+    "strength": "light",
+    "climate_fit": [
+      "hot_daytime",
+      "any_weather"
+    ],
+    "gender_position": "unisex",
+    "classification": "niche"
+  },
+  {
+    "title": "Maison Margiela Replica Jazz Club",
+    "scent_families": [
+      "tobacco",
+      "spicy",
+      "woody"
+    ],
+    "top_notes": [
+      "pink pepper"
+    ],
+    "mid_notes": [
+      "rum"
+    ],
+    "base_notes": [
+      "tobacco leaf",
+      "vanilla"
+    ],
+    "occasions": [
+      "evening_events"
+    ],
+    "mood": "dark_mysterious",
+    "strength": "moderate",
+    "climate_fit": [
+      "warm_evening"
+    ],
+    "gender_position": "unisex",
+    "classification": "niche"
+  },
+  {
+    "title": "Armaf Club de Nuit",
+    "scent_families": [
+      "fruity",
+      "woody",
+      "amber"
+    ],
+    "top_notes": [
+      "pineapple",
+      "blackcurrant"
+    ],
+    "mid_notes": [
+      "birch"
+    ],
+    "base_notes": [
+      "musk",
+      "ambergris"
+    ],
+    "occasions": [
+      "everyday",
+      "office"
+    ],
+    "mood": "elegant_sophisticated",
+    "strength": "strong",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "unisex",
+    "classification": "designer"
+  },
+  {
+    "title": "Armaf Club de Nuit Imperiale",
+    "scent_families": [
+      "fruity",
+      "woody",
+      "amber"
+    ],
+    "top_notes": [
+      "pineapple",
+      "blackcurrant",
+      "apple"
+    ],
+    "mid_notes": [
+      "birch"
+    ],
+    "base_notes": [
+      "musk",
+      "ambergris"
+    ],
+    "occasions": [
+      "evening_events",
+      "office"
+    ],
+    "mood": "luxurious_powerful",
+    "strength": "strong",
+    "climate_fit": [
+      "ac_office",
+      "warm_evening"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Armaf Club de Nuit Untold",
+    "scent_families": [
+      "fruity",
+      "spicy",
+      "woody"
+    ],
+    "top_notes": [
+      "black plum",
+      "raspberry"
+    ],
+    "mid_notes": [
+      "cinnamon"
+    ],
+    "base_notes": [
+      "woody notes",
+      "musk"
+    ],
+    "occasions": [
+      "everyday",
+      "office"
+    ],
+    "mood": "elegant_sophisticated",
+    "strength": "strong",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Armaf Club de Nuit Intense Alc",
+    "scent_families": [
+      "fruity",
+      "woody",
+      "amber"
+    ],
+    "top_notes": [
+      "pineapple",
+      "apple"
+    ],
+    "mid_notes": [
+      "birch"
+    ],
+    "base_notes": [
+      "musk",
+      "ambergris"
+    ],
+    "occasions": [
+      "everyday",
+      "office"
+    ],
+    "mood": "elegant_sophisticated",
+    "strength": "strong",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "unisex",
+    "classification": "designer"
+  },
+  {
+    "title": "Paco Rabanne Fame in Love Elixir",
+    "scent_families": [
+      "floral",
+      "gourmand",
+      "sweet"
+    ],
+    "top_notes": [
+      "orange blossom"
+    ],
+    "mid_notes": [
+      "jasmine"
+    ],
+    "base_notes": [
+      "vanilla",
+      "musk"
+    ],
+    "occasions": [
+      "date_night",
+      "gift"
+    ],
+    "mood": "sweet_playful",
+    "strength": "strong",
+    "climate_fit": [
+      "ac_office",
+      "warm_evening"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Marc Jacobs Perfect Absolute",
+    "scent_families": [
+      "floral",
+      "gourmand"
+    ],
+    "top_notes": [
+      "daisy"
+    ],
+    "mid_notes": [
+      "almond"
+    ],
+    "base_notes": [
+      "musk",
+      "vanilla"
+    ],
+    "occasions": [
+      "everyday",
+      "gift"
+    ],
+    "mood": "sweet_playful",
+    "strength": "moderate",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Yves Saint Laurent Libre Berry Crush Fruitee",
+    "scent_families": [
+      "floral",
+      "fruity",
+      "aromatic"
+    ],
+    "top_notes": [
+      "berries",
+      "lavender"
+    ],
+    "mid_notes": [
+      "orange blossom"
+    ],
+    "base_notes": [
+      "musk",
+      "cedar"
+    ],
+    "occasions": [
+      "everyday",
+      "date_night"
+    ],
+    "mood": "bold_seductive",
+    "strength": "strong",
+    "climate_fit": [
+      "ac_office",
+      "warm_evening"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Lancome Idole Peach N Roses L Fruitee",
+    "scent_families": [
+      "floral",
+      "fruity"
+    ],
+    "top_notes": [
+      "peach"
+    ],
+    "mid_notes": [
+      "rose"
+    ],
+    "base_notes": [
+      "musk"
+    ],
+    "occasions": [
+      "everyday",
+      "gift"
+    ],
+    "mood": "sweet_playful",
+    "strength": "moderate",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Lancome La Vie Est Belle L'elixir Very Cherry",
+    "scent_families": [
+      "gourmand",
+      "fruity",
+      "sweet"
+    ],
+    "top_notes": [
+      "cherry"
+    ],
+    "mid_notes": [
+      "iris"
+    ],
+    "base_notes": [
+      "praline",
+      "vanilla"
+    ],
+    "occasions": [
+      "everyday",
+      "gift",
+      "date_night"
+    ],
+    "mood": "sweet_playful",
+    "strength": "strong",
+    "climate_fit": [
+      "ac_office",
+      "warm_evening"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Burberry Goddes Amber Vanilla Intense",
+    "scent_families": [
+      "amber",
+      "vanilla",
+      "floral"
+    ],
+    "top_notes": [
+      "bergamot"
+    ],
+    "mid_notes": [
+      "jasmine"
+    ],
+    "base_notes": [
+      "amber",
+      "vanilla"
+    ],
+    "occasions": [
+      "evening_events",
+      "date_night"
+    ],
+    "mood": "luxurious_powerful",
+    "strength": "strong",
+    "climate_fit": [
+      "warm_evening",
+      "ac_office"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Xerjoff Erba Pura",
+    "scent_families": [
+      "fruity",
+      "citrus",
+      "sweet"
+    ],
+    "top_notes": [
+      "bergamot",
+      "apple",
+      "pineapple"
+    ],
+    "mid_notes": [
+      "jasmine"
+    ],
+    "base_notes": [
+      "musk",
+      "vanilla"
+    ],
+    "occasions": [
+      "everyday",
+      "holiday"
+    ],
+    "mood": "sweet_playful",
+    "strength": "strong",
+    "climate_fit": [
+      "hot_daytime",
+      "any_weather"
+    ],
+    "gender_position": "unisex",
+    "classification": "niche"
+  },
+  {
+    "title": "Xerjoff Naxos",
+    "scent_families": [
+      "gourmand",
+      "tobacco",
+      "spicy"
+    ],
+    "top_notes": [
+      "bergamot",
+      "lavender"
+    ],
+    "mid_notes": [
+      "honey",
+      "tobacco"
+    ],
+    "base_notes": [
+      "tonka bean",
+      "vanilla"
+    ],
+    "occasions": [
+      "evening_events",
+      "gift"
+    ],
+    "mood": "bold_seductive",
+    "strength": "very_strong",
+    "climate_fit": [
+      "warm_evening"
+    ],
+    "gender_position": "men",
+    "classification": "niche"
+  },
+  {
+    "title": "Frederic Malle Portrait of A Lady",
+    "scent_families": [
+      "floral",
+      "oud",
+      "spicy"
+    ],
+    "top_notes": [
+      "rose",
+      "cinnamon"
+    ],
+    "mid_notes": [
+      "oud",
+      "patchouli"
+    ],
+    "base_notes": [
+      "sandalwood",
+      "musk"
+    ],
+    "occasions": [
+      "evening_events",
+      "weddings_special"
+    ],
+    "mood": "luxurious_powerful",
+    "strength": "very_strong",
+    "climate_fit": [
+      "warm_evening"
+    ],
+    "gender_position": "women",
+    "classification": "niche"
+  },
+  {
+    "title": "Amouage Guidance 46 Extarit",
+    "scent_families": [
+      "woody",
+      "oud",
+      "amber"
+    ],
+    "top_notes": [
+      "saffron"
+    ],
+    "mid_notes": [
+      "oud",
+      "rose"
+    ],
+    "base_notes": [
+      "amber",
+      "musk"
+    ],
+    "occasions": [
+      "evening_events",
+      "weddings_special"
+    ],
+    "mood": "luxurious_powerful",
+    "strength": "very_strong",
+    "climate_fit": [
+      "warm_evening"
+    ],
+    "gender_position": "unisex",
+    "classification": "niche"
+  },
+  {
+    "title": "Amouage Love Hibiscus",
+    "scent_families": [
+      "floral",
+      "fruity",
+      "amber"
+    ],
+    "top_notes": [
+      "hibiscus",
+      "fruity notes"
+    ],
+    "mid_notes": [
+      "rose"
+    ],
+    "base_notes": [
+      "amber",
+      "musk"
+    ],
+    "occasions": [
+      "date_night",
+      "evening_events"
+    ],
+    "mood": "bold_seductive",
+    "strength": "very_strong",
+    "climate_fit": [
+      "warm_evening"
+    ],
+    "gender_position": "women",
+    "classification": "niche"
+  },
+  {
+    "title": "Escentric Molecules Escentric 02 Uk",
+    "scent_families": [
+      "woody",
+      "musk",
+      "amber"
+    ],
+    "top_notes": [
+      "iso e super"
+    ],
+    "mid_notes": [
+      "ambrette"
+    ],
+    "base_notes": [
+      "woody notes",
+      "musk"
+    ],
+    "occasions": [
+      "everyday",
+      "office"
+    ],
+    "mood": "clean_refreshing",
+    "strength": "moderate",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "unisex",
+    "classification": "niche"
+  },
+  {
+    "title": "Maison Crivelli Hibiscus Mahajad",
+    "scent_families": [
+      "floral",
+      "fruity",
+      "spicy"
+    ],
+    "top_notes": [
+      "hibiscus",
+      "saffron"
+    ],
+    "mid_notes": [
+      "rose"
+    ],
+    "base_notes": [
+      "woody notes",
+      "musk"
+    ],
+    "occasions": [
+      "evening_events",
+      "date_night"
+    ],
+    "mood": "bold_seductive",
+    "strength": "very_strong",
+    "climate_fit": [
+      "warm_evening"
+    ],
+    "gender_position": "unisex",
+    "classification": "niche"
+  },
+  {
+    "title": "Louis Vuitton Imagination",
+    "scent_families": [
+      "citrus",
+      "woody",
+      "aromatic"
+    ],
+    "top_notes": [
+      "bergamot",
+      "ginger"
+    ],
+    "mid_notes": [
+      "woody notes"
+    ],
+    "base_notes": [
+      "musk",
+      "amber"
+    ],
+    "occasions": [
+      "everyday",
+      "office"
+    ],
+    "mood": "elegant_sophisticated",
+    "strength": "strong",
+    "climate_fit": [
+      "hot_daytime",
+      "ac_office"
+    ],
+    "gender_position": "men",
+    "classification": "niche"
+  },
+  {
+    "title": "Versace Yellow Diamond",
+    "scent_families": [
+      "floral",
+      "fruity",
+      "citrus"
+    ],
+    "top_notes": [
+      "citron",
+      "pear"
+    ],
+    "mid_notes": [
+      "mimosa"
+    ],
+    "base_notes": [
+      "musk",
+      "amber"
+    ],
+    "occasions": [
+      "everyday",
+      "hot_daytime"
+    ],
+    "mood": "clean_refreshing",
+    "strength": "light",
+    "climate_fit": [
+      "hot_daytime",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Versace Dylan Blue",
+    "scent_families": [
+      "aquatic",
+      "woody",
+      "aromatic"
+    ],
+    "top_notes": [
+      "grapefruit",
+      "fig leaf"
+    ],
+    "mid_notes": [
+      "papyrus"
+    ],
+    "base_notes": [
+      "musk",
+      "cedar"
+    ],
+    "occasions": [
+      "everyday",
+      "office"
+    ],
+    "mood": "clean_refreshing",
+    "strength": "moderate",
+    "climate_fit": [
+      "hot_daytime",
+      "ac_office"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Versace Eros Flame",
+    "scent_families": [
+      "oriental",
+      "spicy",
+      "woody"
+    ],
+    "top_notes": [
+      "mandarin",
+      "black pepper"
+    ],
+    "mid_notes": [
+      "cinnamon"
+    ],
+    "base_notes": [
+      "tonka bean",
+      "vanilla"
+    ],
+    "occasions": [
+      "evening_events",
+      "date_night"
+    ],
+    "mood": "bold_seductive",
+    "strength": "strong",
+    "climate_fit": [
+      "warm_evening",
+      "ac_office"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Versace Eros Parfum",
+    "scent_families": [
+      "oriental",
+      "woody",
+      "aromatic"
+    ],
+    "top_notes": [
+      "mint",
+      "green apple"
+    ],
+    "mid_notes": [
+      "tonka bean"
+    ],
+    "base_notes": [
+      "vanilla",
+      "cedar"
+    ],
+    "occasions": [
+      "evening_events",
+      "date_night"
+    ],
+    "mood": "bold_seductive",
+    "strength": "very_strong",
+    "climate_fit": [
+      "warm_evening"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Versace Eros Eau de Parfum",
+    "scent_families": [
+      "oriental",
+      "woody",
+      "aromatic"
+    ],
+    "top_notes": [
+      "mint",
+      "lemon"
+    ],
+    "mid_notes": [
+      "tonka bean"
+    ],
+    "base_notes": [
+      "vanilla",
+      "cedar"
+    ],
+    "occasions": [
+      "evening_events",
+      "office"
+    ],
+    "mood": "bold_seductive",
+    "strength": "strong",
+    "climate_fit": [
+      "warm_evening",
+      "ac_office"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Versace Eros Eau de Toilette",
+    "scent_families": [
+      "aromatic",
+      "woody",
+      "fresh"
+    ],
+    "top_notes": [
+      "mint",
+      "green apple",
+      "lemon"
+    ],
+    "mid_notes": [
+      "tonka bean",
+      "ambroxan"
+    ],
+    "base_notes": [
+      "vanilla",
+      "cedar"
+    ],
+    "occasions": [
+      "everyday",
+      "office"
+    ],
+    "mood": "clean_refreshing",
+    "strength": "strong",
+    "climate_fit": [
+      "hot_daytime",
+      "ac_office"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Parfums de Marly Valaya",
+    "scent_families": [
+      "floral",
+      "fruity",
+      "gourmand"
+    ],
+    "top_notes": [
+      "bergamot",
+      "black currant"
+    ],
+    "mid_notes": [
+      "jasmine"
+    ],
+    "base_notes": [
+      "vanilla",
+      "sandalwood"
+    ],
+    "occasions": [
+      "date_night",
+      "evening_events"
+    ],
+    "mood": "luxurious_powerful",
+    "strength": "strong",
+    "climate_fit": [
+      "ac_office",
+      "warm_evening"
+    ],
+    "gender_position": "women",
+    "classification": "niche"
+  },
+  {
+    "title": "Parfums de Marly Delina la Rosee",
+    "scent_families": [
+      "floral",
+      "fruity"
+    ],
+    "top_notes": [
+      "lychee",
+      "rose"
+    ],
+    "mid_notes": [
+      "peony"
+    ],
+    "base_notes": [
+      "musk",
+      "cedar"
+    ],
+    "occasions": [
+      "everyday",
+      "date_night"
+    ],
+    "mood": "soft_romantic",
+    "strength": "moderate",
+    "climate_fit": [
+      "hot_daytime",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "niche"
+  },
+  {
+    "title": "Michael Kors Gorgeous!",
+    "scent_families": [
+      "floral",
+      "fruity",
+      "gourmand"
+    ],
+    "top_notes": [
+      "mandarin"
+    ],
+    "mid_notes": [
+      "jasmine"
+    ],
+    "base_notes": [
+      "vanilla",
+      "musk"
+    ],
+    "occasions": [
+      "everyday",
+      "gift"
+    ],
+    "mood": "sweet_playful",
+    "strength": "moderate",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Mancera Red Tobacco Intense",
+    "scent_families": [
+      "tobacco",
+      "spicy",
+      "sweet"
+    ],
+    "top_notes": [
+      "cinnamon"
+    ],
+    "mid_notes": [
+      "tobacco"
+    ],
+    "base_notes": [
+      "vanilla",
+      "amber"
+    ],
+    "occasions": [
+      "evening_events"
+    ],
+    "mood": "dark_mysterious",
+    "strength": "very_strong",
+    "climate_fit": [
+      "warm_evening"
+    ],
+    "gender_position": "unisex",
+    "classification": "niche"
+  },
+  {
+    "title": "Mancera French Riviera",
+    "scent_families": [
+      "citrus",
+      "fruity",
+      "fresh"
+    ],
+    "top_notes": [
+      "bergamot",
+      "pineapple"
+    ],
+    "mid_notes": [
+      "jasmine"
+    ],
+    "base_notes": [
+      "musk",
+      "amber"
+    ],
+    "occasions": [
+      "everyday",
+      "holiday"
+    ],
+    "mood": "clean_refreshing",
+    "strength": "strong",
+    "climate_fit": [
+      "hot_daytime",
+      "any_weather"
+    ],
+    "gender_position": "unisex",
+    "classification": "niche"
+  },
+  {
+    "title": "Mancera Pink Roses",
+    "scent_families": [
+      "floral",
+      "sweet"
+    ],
+    "top_notes": [
+      "rose"
+    ],
+    "mid_notes": [
+      "rose"
+    ],
+    "base_notes": [
+      "musk",
+      "vanilla"
+    ],
+    "occasions": [
+      "date_night",
+      "gift"
+    ],
+    "mood": "soft_romantic",
+    "strength": "strong",
+    "climate_fit": [
+      "ac_office",
+      "warm_evening"
+    ],
+    "gender_position": "women",
+    "classification": "niche"
+  },
+  {
+    "title": "Billie Eilish Eilish",
+    "scent_families": [
+      "gourmand",
+      "sweet",
+      "vanilla"
+    ],
+    "top_notes": [
+      "red berries"
+    ],
+    "mid_notes": [
+      "vanilla orchid"
+    ],
+    "base_notes": [
+      "sandalwood",
+      "musk"
+    ],
+    "occasions": [
+      "everyday",
+      "gift"
+    ],
+    "mood": "sweet_playful",
+    "strength": "moderate",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Azzaro The Most Wanted",
+    "scent_families": [
+      "oriental",
+      "spicy",
+      "woody"
+    ],
+    "top_notes": [
+      "cardamom"
+    ],
+    "mid_notes": [
+      "cocoa"
+    ],
+    "base_notes": [
+      "tonka bean",
+      "vanilla"
+    ],
+    "occasions": [
+      "evening_events",
+      "date_night"
+    ],
+    "mood": "bold_seductive",
+    "strength": "very_strong",
+    "climate_fit": [
+      "warm_evening"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Giorgio Armani Power of You",
+    "scent_families": [
+      "oriental",
+      "spicy",
+      "fresh"
+    ],
+    "top_notes": [
+      "mandarin",
+      "juniper"
+    ],
+    "mid_notes": [
+      "geranium"
+    ],
+    "base_notes": [
+      "vetiver",
+      "tonka bean"
+    ],
+    "occasions": [
+      "office",
+      "everyday"
+    ],
+    "mood": "elegant_sophisticated",
+    "strength": "strong",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Versace Crystal Emerald",
+    "scent_families": [
+      "floral",
+      "aquatic",
+      "fruity"
+    ],
+    "top_notes": [
+      "pear",
+      "lily"
+    ],
+    "mid_notes": [
+      "water lily"
+    ],
+    "base_notes": [
+      "musk"
+    ],
+    "occasions": [
+      "everyday",
+      "hot_daytime"
+    ],
+    "mood": "clean_refreshing",
+    "strength": "light",
+    "climate_fit": [
+      "hot_daytime",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Coach Gold",
+    "scent_families": [
+      "floral",
+      "gourmand"
+    ],
+    "top_notes": [
+      "mandarin"
+    ],
+    "mid_notes": [
+      "jasmine"
+    ],
+    "base_notes": [
+      "vanilla",
+      "musk"
+    ],
+    "occasions": [
+      "everyday",
+      "gift"
+    ],
+    "mood": "sweet_playful",
+    "strength": "moderate",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Montblanc Signature Elixir",
+    "scent_families": [
+      "floral",
+      "gourmand",
+      "sweet"
+    ],
+    "top_notes": [
+      "bergamot"
+    ],
+    "mid_notes": [
+      "jasmine",
+      "vanilla"
+    ],
+    "base_notes": [
+      "musk",
+      "sandalwood"
+    ],
+    "occasions": [
+      "everyday",
+      "date_night"
+    ],
+    "mood": "sweet_playful",
+    "strength": "strong",
+    "climate_fit": [
+      "ac_office",
+      "warm_evening"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Montblanc Legend Blue",
+    "scent_families": [
+      "aromatic",
+      "woody",
+      "fresh"
+    ],
+    "top_notes": [
+      "bergamot",
+      "mint"
+    ],
+    "mid_notes": [
+      "lavender"
+    ],
+    "base_notes": [
+      "woody notes",
+      "musk"
+    ],
+    "occasions": [
+      "everyday",
+      "office"
+    ],
+    "mood": "clean_refreshing",
+    "strength": "moderate",
+    "climate_fit": [
+      "hot_daytime",
+      "ac_office"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Montblanc Explorer Extreme",
+    "scent_families": [
+      "woody",
+      "earthy",
+      "spicy"
+    ],
+    "top_notes": [
+      "bergamot"
+    ],
+    "mid_notes": [
+      "vetiver"
+    ],
+    "base_notes": [
+      "patchouli",
+      "leather"
+    ],
+    "occasions": [
+      "office",
+      "evening_events"
+    ],
+    "mood": "elegant_sophisticated",
+    "strength": "strong",
+    "climate_fit": [
+      "ac_office",
+      "warm_evening"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Lancome La Vie Est Belle Vanille Nude",
+    "scent_families": [
+      "gourmand",
+      "vanilla",
+      "sweet"
+    ],
+    "top_notes": [
+      "pear"
+    ],
+    "mid_notes": [
+      "iris"
+    ],
+    "base_notes": [
+      "vanilla",
+      "praline"
+    ],
+    "occasions": [
+      "everyday",
+      "gift"
+    ],
+    "mood": "sweet_playful",
+    "strength": "strong",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Lancome Idole Power",
+    "scent_families": [
+      "floral",
+      "fruity",
+      "woody"
+    ],
+    "top_notes": [
+      "pomarose"
+    ],
+    "mid_notes": [
+      "may rose"
+    ],
+    "base_notes": [
+      "sandalwood"
+    ],
+    "occasions": [
+      "everyday",
+      "office"
+    ],
+    "mood": "elegant_sophisticated",
+    "strength": "moderate",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Givenchy Gentleman Socity Sport",
+    "scent_families": [
+      "aromatic",
+      "citrus",
+      "woody"
+    ],
+    "top_notes": [
+      "bergamot",
+      "mint"
+    ],
+    "mid_notes": [
+      "lavender"
+    ],
+    "base_notes": [
+      "woody notes",
+      "musk"
+    ],
+    "occasions": [
+      "everyday",
+      "office"
+    ],
+    "mood": "clean_refreshing",
+    "strength": "moderate",
+    "climate_fit": [
+      "hot_daytime",
+      "ac_office"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Dolce & Gabbana My Devotion Intense",
+    "scent_families": [
+      "floral",
+      "sweet",
+      "gourmand"
+    ],
+    "top_notes": [
+      "orange blossom"
+    ],
+    "mid_notes": [
+      "jasmine"
+    ],
+    "base_notes": [
+      "vanilla",
+      "musk"
+    ],
+    "occasions": [
+      "everyday",
+      "date_night"
+    ],
+    "mood": "sweet_playful",
+    "strength": "strong",
+    "climate_fit": [
+      "ac_office",
+      "warm_evening"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Dolce & Gabbana Devotion Pour Homme",
+    "scent_families": [
+      "woody",
+      "amber",
+      "aromatic"
+    ],
+    "top_notes": [
+      "bergamot"
+    ],
+    "mid_notes": [
+      "geranium"
+    ],
+    "base_notes": [
+      "woody notes",
+      "amber"
+    ],
+    "occasions": [
+      "office",
+      "everyday"
+    ],
+    "mood": "elegant_sophisticated",
+    "strength": "moderate",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Burberry Her Intense",
+    "scent_families": [
+      "fruity",
+      "floral",
+      "sweet"
+    ],
+    "top_notes": [
+      "blackberry",
+      "cherry"
+    ],
+    "mid_notes": [
+      "violet"
+    ],
+    "base_notes": [
+      "musk",
+      "vanilla"
+    ],
+    "occasions": [
+      "everyday",
+      "date_night"
+    ],
+    "mood": "sweet_playful",
+    "strength": "strong",
+    "climate_fit": [
+      "ac_office",
+      "warm_evening"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Burberry Goddess Intense",
+    "scent_families": [
+      "floral",
+      "amber"
+    ],
+    "top_notes": [
+      "bergamot"
+    ],
+    "mid_notes": [
+      "jasmine"
+    ],
+    "base_notes": [
+      "amber",
+      "vanilla"
+    ],
+    "occasions": [
+      "evening_events",
+      "date_night"
+    ],
+    "mood": "luxurious_powerful",
+    "strength": "strong",
+    "climate_fit": [
+      "warm_evening"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Prada Paradoxe Radical Essesnce",
+    "scent_families": [
+      "floral",
+      "musk",
+      "amber"
+    ],
+    "top_notes": [
+      "neroli"
+    ],
+    "mid_notes": [
+      "jasmine"
+    ],
+    "base_notes": [
+      "amber",
+      "musk"
+    ],
+    "occasions": [
+      "office",
+      "everyday"
+    ],
+    "mood": "elegant_sophisticated",
+    "strength": "strong",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Prada Paradox Virtual Flower",
+    "scent_families": [
+      "floral",
+      "fresh"
+    ],
+    "top_notes": [
+      "neroli"
+    ],
+    "mid_notes": [
+      "jasmine"
+    ],
+    "base_notes": [
+      "musk"
+    ],
+    "occasions": [
+      "everyday",
+      "office"
+    ],
+    "mood": "clean_refreshing",
+    "strength": "moderate",
+    "climate_fit": [
+      "hot_daytime",
+      "ac_office"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Prada Paradigme",
+    "scent_families": [
+      "woody",
+      "amber",
+      "spicy"
+    ],
+    "top_notes": [
+      "bergamot"
+    ],
+    "mid_notes": [
+      "patchouli"
+    ],
+    "base_notes": [
+      "amber",
+      "vetiver"
+    ],
+    "occasions": [
+      "office",
+      "evening_events"
+    ],
+    "mood": "elegant_sophisticated",
+    "strength": "strong",
+    "climate_fit": [
+      "ac_office",
+      "warm_evening"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Prada Luna Rossa Ocean",
+    "scent_families": [
+      "aquatic",
+      "fresh",
+      "aromatic"
+    ],
+    "top_notes": [
+      "sea notes"
+    ],
+    "mid_notes": [
+      "clary sage"
+    ],
+    "base_notes": [
+      "ambroxan",
+      "musk"
+    ],
+    "occasions": [
+      "everyday",
+      "hot_daytime"
+    ],
+    "mood": "clean_refreshing",
+    "strength": "moderate",
+    "climate_fit": [
+      "hot_daytime",
+      "any_weather"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Carolina Herrera La Bomba",
+    "scent_families": [
+      "floral",
+      "fruity",
+      "gourmand"
+    ],
+    "top_notes": [
+      "mandarin"
+    ],
+    "mid_notes": [
+      "tuberose"
+    ],
+    "base_notes": [
+      "vanilla",
+      "musk"
+    ],
+    "occasions": [
+      "date_night",
+      "gift"
+    ],
+    "mood": "sweet_playful",
+    "strength": "strong",
+    "climate_fit": [
+      "ac_office",
+      "warm_evening"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Carolina Herrera Good Girl Blush Elixer",
+    "scent_families": [
+      "floral",
+      "sweet",
+      "gourmand"
+    ],
+    "top_notes": [
+      "berries"
+    ],
+    "mid_notes": [
+      "tuberose"
+    ],
+    "base_notes": [
+      "vanilla",
+      "tonka bean"
+    ],
+    "occasions": [
+      "date_night",
+      "evening_events"
+    ],
+    "mood": "bold_seductive",
+    "strength": "very_strong",
+    "climate_fit": [
+      "warm_evening"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Jean Paul Gaultier Le Beau Flower",
+    "scent_families": [
+      "woody",
+      "floral",
+      "aromatic"
+    ],
+    "top_notes": [
+      "bergamot"
+    ],
+    "mid_notes": [
+      "orange blossom"
+    ],
+    "base_notes": [
+      "woody notes",
+      "vanilla"
+    ],
+    "occasions": [
+      "everyday",
+      "date_night"
+    ],
+    "mood": "elegant_sophisticated",
+    "strength": "moderate",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Jean Paul Gaultier Le Male Elixir Absolu",
+    "scent_families": [
+      "amber",
+      "spicy",
+      "fruity"
+    ],
+    "top_notes": [
+      "lavender"
+    ],
+    "mid_notes": [
+      "plum"
+    ],
+    "base_notes": [
+      "tonka bean"
+    ],
+    "occasions": [
+      "evening_events",
+      "date_night"
+    ],
+    "mood": "bold_seductive",
+    "strength": "very_strong",
+    "climate_fit": [
+      "warm_evening"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Valentino Uomo Born in Roma Ivory",
+    "scent_families": [
+      "woody",
+      "aromatic",
+      "spicy"
+    ],
+    "top_notes": [
+      "bergamot",
+      "cardamom"
+    ],
+    "mid_notes": [
+      "geranium"
+    ],
+    "base_notes": [
+      "woody notes",
+      "leather"
+    ],
+    "occasions": [
+      "office",
+      "everyday"
+    ],
+    "mood": "elegant_sophisticated",
+    "strength": "moderate",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Valentino Donna B Roma Purple Melancholia",
+    "scent_families": [
+      "floral",
+      "sweet",
+      "gourmand"
+    ],
+    "top_notes": [
+      "black currant"
+    ],
+    "mid_notes": [
+      "iris"
+    ],
+    "base_notes": [
+      "vanilla",
+      "musk"
+    ],
+    "occasions": [
+      "everyday",
+      "date_night"
+    ],
+    "mood": "sweet_playful",
+    "strength": "strong",
+    "climate_fit": [
+      "ac_office",
+      "warm_evening"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Valentino Uomo Born in Roma Purple Melancholia",
+    "scent_families": [
+      "woody",
+      "spicy",
+      "sweet"
+    ],
+    "top_notes": [
+      "cardamom"
+    ],
+    "mid_notes": [
+      "clary sage"
+    ],
+    "base_notes": [
+      "woody notes",
+      "vanilla"
+    ],
+    "occasions": [
+      "evening_events",
+      "office"
+    ],
+    "mood": "elegant_sophisticated",
+    "strength": "strong",
+    "climate_fit": [
+      "ac_office",
+      "warm_evening"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Valentino Donna Born in Roma Extradose",
+    "scent_families": [
+      "floral",
+      "sweet",
+      "amber"
+    ],
+    "top_notes": [
+      "black currant"
+    ],
+    "mid_notes": [
+      "iris"
+    ],
+    "base_notes": [
+      "vanilla",
+      "musk"
+    ],
+    "occasions": [
+      "date_night",
+      "evening_events"
+    ],
+    "mood": "bold_seductive",
+    "strength": "very_strong",
+    "climate_fit": [
+      "warm_evening"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Valentino Uomo Born in Roma Extradose",
+    "scent_families": [
+      "woody",
+      "spicy",
+      "amber"
+    ],
+    "top_notes": [
+      "bergamot"
+    ],
+    "mid_notes": [
+      "cardamom"
+    ],
+    "base_notes": [
+      "leather",
+      "woody notes"
+    ],
+    "occasions": [
+      "evening_events",
+      "office"
+    ],
+    "mood": "luxurious_powerful",
+    "strength": "very_strong",
+    "climate_fit": [
+      "warm_evening",
+      "ac_office"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Paco Rabanne Victory Absolu",
+    "scent_families": [
+      "woody",
+      "spicy",
+      "amber"
+    ],
+    "top_notes": [
+      "cardamom"
+    ],
+    "mid_notes": [
+      "laurel"
+    ],
+    "base_notes": [
+      "woody notes",
+      "amber"
+    ],
+    "occasions": [
+      "office",
+      "evening_events"
+    ],
+    "mood": "elegant_sophisticated",
+    "strength": "strong",
+    "climate_fit": [
+      "ac_office",
+      "warm_evening"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Paco Rabanne Gold Elixir",
+    "scent_families": [
+      "gourmand",
+      "amber",
+      "spicy"
+    ],
+    "top_notes": [
+      "cinnamon"
+    ],
+    "mid_notes": [
+      "honey"
+    ],
+    "base_notes": [
+      "vanilla",
+      "tonka bean"
+    ],
+    "occasions": [
+      "evening_events",
+      "gift"
+    ],
+    "mood": "luxurious_powerful",
+    "strength": "very_strong",
+    "climate_fit": [
+      "warm_evening"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Giorgio Armani My Way Ylang",
+    "scent_families": [
+      "floral",
+      "white floral"
+    ],
+    "top_notes": [
+      "ylang-ylang",
+      "bergamot"
+    ],
+    "mid_notes": [
+      "orange blossom"
+    ],
+    "base_notes": [
+      "white musk",
+      "vanilla"
+    ],
+    "occasions": [
+      "everyday",
+      "office"
+    ],
+    "mood": "elegant_sophisticated",
+    "strength": "moderate",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Giorgio Armani Stronger With You Powerfully",
+    "scent_families": [
+      "amber",
+      "gourmand",
+      "spicy"
+    ],
+    "top_notes": [
+      "cherry",
+      "mandarin"
+    ],
+    "mid_notes": [
+      "spices",
+      "lavender"
+    ],
+    "base_notes": [
+      "chestnut",
+      "vanilla",
+      "amberwood"
+    ],
+    "occasions": [
+      "evening_events",
+      "date_night"
+    ],
+    "mood": "luxurious_powerful",
+    "strength": "strong",
+    "climate_fit": [
+      "warm_evening"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Giorgio Armani Emporio Armani Stronger With You",
+    "scent_families": [
+      "amber",
+      "aromatic",
+      "sweet"
+    ],
+    "top_notes": [
+      "cardamom",
+      "pink pepper"
+    ],
+    "mid_notes": [
+      "sage"
+    ],
+    "base_notes": [
+      "chestnut",
+      "vanilla"
+    ],
+    "occasions": [
+      "everyday",
+      "date_night"
+    ],
+    "mood": "elegant_sophisticated",
+    "strength": "moderate",
+    "climate_fit": [
+      "ac_office",
+      "warm_evening"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Giorgio Armani Acqua Di Gio Elixir",
+    "scent_families": [
+      "aromatic",
+      "woody",
+      "amber"
+    ],
+    "top_notes": [
+      "bergamot"
+    ],
+    "mid_notes": [
+      "rosemary"
+    ],
+    "base_notes": [
+      "amber",
+      "incense"
+    ],
+    "occasions": [
+      "office",
+      "everyday"
+    ],
+    "mood": "elegant_sophisticated",
+    "strength": "strong",
+    "climate_fit": [
+      "hot_daytime",
+      "ac_office"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Yves Saint Laurent Black Opium Glitter",
+    "scent_families": [
+      "gourmand",
+      "sweet",
+      "floral"
+    ],
+    "top_notes": [
+      "pear",
+      "pink pepper"
+    ],
+    "mid_notes": [
+      "coffee",
+      "jasmine"
+    ],
+    "base_notes": [
+      "vanilla",
+      "patchouli"
+    ],
+    "occasions": [
+      "evening_events",
+      "date_night"
+    ],
+    "mood": "bold_seductive",
+    "strength": "very_strong",
+    "climate_fit": [
+      "warm_evening"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Yves Saint Laurent Libre Leau Nue de Peau",
+    "scent_families": [
+      "floral",
+      "musk"
+    ],
+    "top_notes": [
+      "lavender"
+    ],
+    "mid_notes": [
+      "orange blossom"
+    ],
+    "base_notes": [
+      "musk",
+      "cedar"
+    ],
+    "occasions": [
+      "everyday",
+      "office"
+    ],
+    "mood": "clean_refreshing",
+    "strength": "light",
+    "climate_fit": [
+      "hot_daytime",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Yves Saint Laurent Libre Flowers&flames Florale",
+    "scent_families": [
+      "floral",
+      "spicy"
+    ],
+    "top_notes": [
+      "lavender",
+      "mandarin"
+    ],
+    "mid_notes": [
+      "orange blossom",
+      "jasmine"
+    ],
+    "base_notes": [
+      "musk"
+    ],
+    "occasions": [
+      "everyday",
+      "date_night"
+    ],
+    "mood": "bold_seductive",
+    "strength": "strong",
+    "climate_fit": [
+      "ac_office",
+      "warm_evening"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Yves Saint Laurent Myslf Parfum",
+    "scent_families": [
+      "floral",
+      "woody",
+      "spicy"
+    ],
+    "top_notes": [
+      "bergamot",
+      "black pepper"
+    ],
+    "mid_notes": [
+      "orange blossom"
+    ],
+    "base_notes": [
+      "patchouli",
+      "bourbon vanilla"
+    ],
+    "occasions": [
+      "evening_events",
+      "date_night"
+    ],
+    "mood": "luxurious_powerful",
+    "strength": "very_strong",
+    "climate_fit": [
+      "warm_evening"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Yves Saint Laurent Y Intense",
+    "scent_families": [
+      "aromatic",
+      "woody",
+      "fresh"
+    ],
+    "top_notes": [
+      "apple",
+      "bergamot"
+    ],
+    "mid_notes": [
+      "sage"
+    ],
+    "base_notes": [
+      "cedar",
+      "juniper"
+    ],
+    "occasions": [
+      "office",
+      "everyday"
+    ],
+    "mood": "elegant_sophisticated",
+    "strength": "strong",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Yves Saint Laurent Myslf Eau de Parfum",
+    "scent_families": [
+      "floral",
+      "woody",
+      "fresh"
+    ],
+    "top_notes": [
+      "bergamot"
+    ],
+    "mid_notes": [
+      "orange blossom"
+    ],
+    "base_notes": [
+      "patchouli",
+      "ambrofix"
+    ],
+    "occasions": [
+      "everyday",
+      "office"
+    ],
+    "mood": "clean_refreshing",
+    "strength": "moderate",
+    "climate_fit": [
+      "hot_daytime",
+      "ac_office"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Yves Saint Laurent Libre",
+    "scent_families": [
+      "floral",
+      "aromatic"
+    ],
+    "top_notes": [
+      "lavender",
+      "mandarin"
+    ],
+    "mid_notes": [
+      "orange blossom"
+    ],
+    "base_notes": [
+      "musk",
+      "vanilla"
+    ],
+    "occasions": [
+      "everyday",
+      "office"
+    ],
+    "mood": "elegant_sophisticated",
+    "strength": "moderate",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Yves Saint Laurent Libre Intense",
+    "scent_families": [
+      "floral",
+      "aromatic",
+      "sweet"
+    ],
+    "top_notes": [
+      "lavender"
+    ],
+    "mid_notes": [
+      "orange blossom",
+      "jasmine"
+    ],
+    "base_notes": [
+      "musk",
+      "vanilla"
+    ],
+    "occasions": [
+      "date_night",
+      "evening_events"
+    ],
+    "mood": "bold_seductive",
+    "strength": "strong",
+    "climate_fit": [
+      "ac_office",
+      "warm_evening"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Yves Saint Laurent Y Parfum",
+    "scent_families": [
+      "woody",
+      "aromatic",
+      "citrus"
+    ],
+    "top_notes": [
+      "apple",
+      "ginger"
+    ],
+    "mid_notes": [
+      "sage"
+    ],
+    "base_notes": [
+      "cedar",
+      "vetiver"
+    ],
+    "occasions": [
+      "office",
+      "everyday"
+    ],
+    "mood": "elegant_sophisticated",
+    "strength": "strong",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Valentino Uomo Born in Roma Coral Fantasy M",
+    "scent_families": [
+      "fresh",
+      "woody",
+      "aromatic"
+    ],
+    "top_notes": [
+      "bergamot"
+    ],
+    "mid_notes": [
+      "geranium"
+    ],
+    "base_notes": [
+      "woody notes"
+    ],
+    "occasions": [
+      "everyday",
+      "hot_daytime"
+    ],
+    "mood": "clean_refreshing",
+    "strength": "moderate",
+    "climate_fit": [
+      "hot_daytime",
+      "any_weather"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Valentino Uomo Born in Roma Yellow Dream",
+    "scent_families": [
+      "fresh",
+      "citrus",
+      "woody"
+    ],
+    "top_notes": [
+      "citron"
+    ],
+    "mid_notes": [
+      "clary sage"
+    ],
+    "base_notes": [
+      "woody notes"
+    ],
+    "occasions": [
+      "everyday",
+      "hot_daytime"
+    ],
+    "mood": "clean_refreshing",
+    "strength": "moderate",
+    "climate_fit": [
+      "hot_daytime",
+      "any_weather"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Valentino Donna Born in Roma Coral Fantasy",
+    "scent_families": [
+      "floral",
+      "fresh"
+    ],
+    "top_notes": [
+      "bergamot"
+    ],
+    "mid_notes": [
+      "iris"
+    ],
+    "base_notes": [
+      "musk"
+    ],
+    "occasions": [
+      "everyday",
+      "hot_daytime"
+    ],
+    "mood": "clean_refreshing",
+    "strength": "light",
+    "climate_fit": [
+      "hot_daytime",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Valentino Donna Born in Roma Yellow Dream",
+    "scent_families": [
+      "floral",
+      "citrus"
+    ],
+    "top_notes": [
+      "citron"
+    ],
+    "mid_notes": [
+      "iris"
+    ],
+    "base_notes": [
+      "musk"
+    ],
+    "occasions": [
+      "everyday",
+      "hot_daytime"
+    ],
+    "mood": "clean_refreshing",
+    "strength": "light",
+    "climate_fit": [
+      "hot_daytime",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Tom Ford Ombre Leather Parfum",
+    "scent_families": [
+      "leather",
+      "amber",
+      "floral"
+    ],
+    "top_notes": [
+      "cardamom"
+    ],
+    "mid_notes": [
+      "leather",
+      "jasmine"
+    ],
+    "base_notes": [
+      "amber",
+      "suede"
+    ],
+    "occasions": [
+      "evening_events"
+    ],
+    "mood": "dark_mysterious",
+    "strength": "very_strong",
+    "climate_fit": [
+      "warm_evening"
+    ],
+    "gender_position": "unisex",
+    "classification": "niche"
+  },
+  {
+    "title": "Tom Ford Ombre Leather Eau de Parfum",
+    "scent_families": [
+      "leather",
+      "amber",
+      "floral"
+    ],
+    "top_notes": [
+      "cardamom"
+    ],
+    "mid_notes": [
+      "leather",
+      "jasmine"
+    ],
+    "base_notes": [
+      "amber",
+      "suede"
+    ],
+    "occasions": [
+      "evening_events"
+    ],
+    "mood": "dark_mysterious",
+    "strength": "strong",
+    "climate_fit": [
+      "warm_evening"
+    ],
+    "gender_position": "unisex",
+    "classification": "niche"
+  },
+  {
+    "title": "Tom Ford Noir Extreame",
+    "scent_families": [
+      "amber",
+      "spicy",
+      "floral"
+    ],
+    "top_notes": [
+      "pink pepper",
+      "saffron"
+    ],
+    "mid_notes": [
+      "ginger lily"
+    ],
+    "base_notes": [
+      "amber",
+      "vanilla"
+    ],
+    "occasions": [
+      "evening_events",
+      "date_night"
+    ],
+    "mood": "luxurious_powerful",
+    "strength": "very_strong",
+    "climate_fit": [
+      "warm_evening"
+    ],
+    "gender_position": "men",
+    "classification": "niche"
+  },
+  {
+    "title": "Tom Ford Black Orchid",
+    "scent_families": [
+      "floral",
+      "gourmand",
+      "spicy"
+    ],
+    "top_notes": [
+      "black truffle",
+      "bergamot"
+    ],
+    "mid_notes": [
+      "orchid",
+      "spices"
+    ],
+    "base_notes": [
+      "patchouli",
+      "dark chocolate"
+    ],
+    "occasions": [
+      "evening_events",
+      "date_night"
+    ],
+    "mood": "dark_mysterious",
+    "strength": "very_strong",
+    "climate_fit": [
+      "warm_evening"
+    ],
+    "gender_position": "unisex",
+    "classification": "niche"
+  },
+  {
+    "title": "Montblanc Starwalker",
+    "scent_families": [
+      "woody",
+      "aromatic",
+      "fresh"
+    ],
+    "top_notes": [
+      "bergamot"
+    ],
+    "mid_notes": [
+      "cedar"
+    ],
+    "base_notes": [
+      "woody notes",
+      "musk"
+    ],
+    "occasions": [
+      "everyday",
+      "office"
+    ],
+    "mood": "clean_refreshing",
+    "strength": "moderate",
+    "climate_fit": [
+      "hot_daytime",
+      "ac_office"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Dior Sauvage Parfum",
+    "scent_families": [
+      "woody",
+      "amber",
+      "aromatic"
+    ],
+    "top_notes": [
+      "bergamot",
+      "pepper"
+    ],
+    "mid_notes": [
+      "lavender"
+    ],
+    "base_notes": [
+      "ambroxan",
+      "vanilla"
+    ],
+    "occasions": [
+      "everyday",
+      "evening_events"
+    ],
+    "mood": "elegant_sophisticated",
+    "strength": "very_strong",
+    "climate_fit": [
+      "ac_office",
+      "warm_evening"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Dior Sauvage Eau de Parfum",
+    "scent_families": [
+      "woody",
+      "amber",
+      "aromatic"
+    ],
+    "top_notes": [
+      "bergamot"
+    ],
+    "mid_notes": [
+      "lavender",
+      "sichuan pepper"
+    ],
+    "base_notes": [
+      "ambroxan"
+    ],
+    "occasions": [
+      "everyday",
+      "office"
+    ],
+    "mood": "elegant_sophisticated",
+    "strength": "strong",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Prada Paradoxe",
+    "scent_families": [
+      "floral",
+      "musk",
+      "amber"
+    ],
+    "top_notes": [
+      "neroli"
+    ],
+    "mid_notes": [
+      "jasmine"
+    ],
+    "base_notes": [
+      "amber",
+      "musk"
+    ],
+    "occasions": [
+      "everyday",
+      "office"
+    ],
+    "mood": "elegant_sophisticated",
+    "strength": "moderate",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Paco Rabanne Phantom",
+    "scent_families": [
+      "woody",
+      "aromatic",
+      "fresh"
+    ],
+    "top_notes": [
+      "lavender",
+      "apple"
+    ],
+    "mid_notes": [
+      "cardamom"
+    ],
+    "base_notes": [
+      "woody notes",
+      "vanilla"
+    ],
+    "occasions": [
+      "everyday",
+      "office"
+    ],
+    "mood": "clean_refreshing",
+    "strength": "moderate",
+    "climate_fit": [
+      "hot_daytime",
+      "ac_office"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Paco Rabanne Olympea Flora",
+    "scent_families": [
+      "floral",
+      "fruity"
+    ],
+    "top_notes": [
+      "mandarin"
+    ],
+    "mid_notes": [
+      "water jasmine"
+    ],
+    "base_notes": [
+      "musk",
+      "cedar"
+    ],
+    "occasions": [
+      "everyday",
+      "hot_daytime"
+    ],
+    "mood": "clean_refreshing",
+    "strength": "moderate",
+    "climate_fit": [
+      "hot_daytime",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Paco Rabanne Olympea Blossom",
+    "scent_families": [
+      "floral",
+      "fruity",
+      "sweet"
+    ],
+    "top_notes": [
+      "mandarin"
+    ],
+    "mid_notes": [
+      "orange blossom"
+    ],
+    "base_notes": [
+      "vanilla",
+      "musk"
+    ],
+    "occasions": [
+      "everyday",
+      "date_night"
+    ],
+    "mood": "sweet_playful",
+    "strength": "moderate",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Paco Rabanne Victory Elixir",
+    "scent_families": [
+      "woody",
+      "spicy",
+      "amber"
+    ],
+    "top_notes": [
+      "cardamom"
+    ],
+    "mid_notes": [
+      "laurel"
+    ],
+    "base_notes": [
+      "amber",
+      "vanilla"
+    ],
+    "occasions": [
+      "evening_events",
+      "office"
+    ],
+    "mood": "luxurious_powerful",
+    "strength": "very_strong",
+    "climate_fit": [
+      "warm_evening"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Narciso Rodriguez All of Me",
+    "scent_families": [
+      "musk",
+      "woody"
+    ],
+    "top_notes": [
+      "orange blossom"
+    ],
+    "mid_notes": [
+      "musk"
+    ],
+    "base_notes": [
+      "woody notes"
+    ],
+    "occasions": [
+      "everyday",
+      "office"
+    ],
+    "mood": "elegant_sophisticated",
+    "strength": "moderate",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Narciso Rodriguez For Her",
+    "scent_families": [
+      "musk",
+      "floral"
+    ],
+    "top_notes": [
+      "peach"
+    ],
+    "mid_notes": [
+      "musk"
+    ],
+    "base_notes": [
+      "amber",
+      "vanilla"
+    ],
+    "occasions": [
+      "everyday",
+      "date_night"
+    ],
+    "mood": "soft_romantic",
+    "strength": "moderate",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Narciso Rodriguez Bleu Noir",
+    "scent_families": [
+      "woody",
+      "amber",
+      "aromatic"
+    ],
+    "top_notes": [
+      "grapefruit"
+    ],
+    "mid_notes": [
+      "musk"
+    ],
+    "base_notes": [
+      "cedar",
+      "amber"
+    ],
+    "occasions": [
+      "everyday",
+      "office"
+    ],
+    "mood": "elegant_sophisticated",
+    "strength": "moderate",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Montblanc Signature",
+    "scent_families": [
+      "floral",
+      "fresh"
+    ],
+    "top_notes": [
+      "bergamot"
+    ],
+    "mid_notes": [
+      "jasmine"
+    ],
+    "base_notes": [
+      "musk"
+    ],
+    "occasions": [
+      "everyday",
+      "office"
+    ],
+    "mood": "clean_refreshing",
+    "strength": "light",
+    "climate_fit": [
+      "hot_daytime",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Montblanc Starwalker Extreme",
+    "scent_families": [
+      "woody",
+      "fresh",
+      "aromatic"
+    ],
+    "top_notes": [
+      "bergamot"
+    ],
+    "mid_notes": [
+      "cedar"
+    ],
+    "base_notes": [
+      "woody notes"
+    ],
+    "occasions": [
+      "everyday",
+      "office"
+    ],
+    "mood": "clean_refreshing",
+    "strength": "moderate",
+    "climate_fit": [
+      "hot_daytime",
+      "ac_office"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Montblanc Legend Spirit",
+    "scent_families": [
+      "aromatic",
+      "citrus",
+      "fresh"
+    ],
+    "top_notes": [
+      "bergamot",
+      "apple"
+    ],
+    "mid_notes": [
+      "lavender"
+    ],
+    "base_notes": [
+      "woody notes"
+    ],
+    "occasions": [
+      "everyday",
+      "office"
+    ],
+    "mood": "clean_refreshing",
+    "strength": "light",
+    "climate_fit": [
+      "hot_daytime",
+      "any_weather"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Montblanc Legend Red",
+    "scent_families": [
+      "spicy",
+      "fruity",
+      "woody"
+    ],
+    "top_notes": [
+      "cardamom"
+    ],
+    "mid_notes": [
+      "red apple"
+    ],
+    "base_notes": [
+      "woody notes",
+      "amber"
+    ],
+    "occasions": [
+      "evening_events",
+      "office"
+    ],
+    "mood": "elegant_sophisticated",
+    "strength": "moderate",
+    "climate_fit": [
+      "ac_office",
+      "warm_evening"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Montblanc Legend",
+    "scent_families": [
+      "aromatic",
+      "woody",
+      "fresh"
+    ],
+    "top_notes": [
+      "bergamot",
+      "pineapple"
+    ],
+    "mid_notes": [
+      "oakmoss",
+      "geranium"
+    ],
+    "base_notes": [
+      "woody notes",
+      "tonka bean"
+    ],
+    "occasions": [
+      "everyday",
+      "office"
+    ],
+    "mood": "elegant_sophisticated",
+    "strength": "moderate",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Montblanc Explorer Platinum",
+    "scent_families": [
+      "woody",
+      "citrus",
+      "aromatic"
+    ],
+    "top_notes": [
+      "bergamot"
+    ],
+    "mid_notes": [
+      "clary sage"
+    ],
+    "base_notes": [
+      "vetiver",
+      "musk"
+    ],
+    "occasions": [
+      "everyday",
+      "office"
+    ],
+    "mood": "clean_refreshing",
+    "strength": "moderate",
+    "climate_fit": [
+      "hot_daytime",
+      "ac_office"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Montblanc Explorer",
+    "scent_families": [
+      "woody",
+      "earthy",
+      "spicy"
+    ],
+    "top_notes": [
+      "bergamot"
+    ],
+    "mid_notes": [
+      "vetiver"
+    ],
+    "base_notes": [
+      "patchouli",
+      "leather"
+    ],
+    "occasions": [
+      "office",
+      "everyday"
+    ],
+    "mood": "elegant_sophisticated",
+    "strength": "moderate",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Marc Jacobs Perfect",
+    "scent_families": [
+      "floral",
+      "gourmand"
+    ],
+    "top_notes": [
+      "daisy"
+    ],
+    "mid_notes": [
+      "almond",
+      "rose"
+    ],
+    "base_notes": [
+      "musk",
+      "vanilla"
+    ],
+    "occasions": [
+      "everyday",
+      "gift"
+    ],
+    "mood": "sweet_playful",
+    "strength": "moderate",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Mancera Red Tobacco",
+    "scent_families": [
+      "tobacco",
+      "spicy",
+      "sweet"
+    ],
+    "top_notes": [
+      "cinnamon"
+    ],
+    "mid_notes": [
+      "tobacco"
+    ],
+    "base_notes": [
+      "vanilla",
+      "amber"
+    ],
+    "occasions": [
+      "evening_events"
+    ],
+    "mood": "dark_mysterious",
+    "strength": "strong",
+    "climate_fit": [
+      "warm_evening"
+    ],
+    "gender_position": "unisex",
+    "classification": "niche"
+  },
+  {
+    "title": "Jimmy Choo Man",
+    "scent_families": [
+      "aromatic",
+      "woody",
+      "citrus"
+    ],
+    "top_notes": [
+      "mandarin",
+      "pink pepper"
+    ],
+    "mid_notes": [
+      "lavender"
+    ],
+    "base_notes": [
+      "woody notes",
+      "suede"
+    ],
+    "occasions": [
+      "everyday",
+      "office"
+    ],
+    "mood": "clean_refreshing",
+    "strength": "moderate",
+    "climate_fit": [
+      "hot_daytime",
+      "ac_office"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Jimmy Choo L'eau",
+    "scent_families": [
+      "fruity",
+      "floral",
+      "fresh"
+    ],
+    "top_notes": [
+      "pear"
+    ],
+    "mid_notes": [
+      "jasmine"
+    ],
+    "base_notes": [
+      "musk"
+    ],
+    "occasions": [
+      "everyday",
+      "hot_daytime"
+    ],
+    "mood": "clean_refreshing",
+    "strength": "light",
+    "climate_fit": [
+      "hot_daytime",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Jimmy Choo I Want Choo Forever",
+    "scent_families": [
+      "floral",
+      "gourmand",
+      "sweet"
+    ],
+    "top_notes": [
+      "mandarin"
+    ],
+    "mid_notes": [
+      "tuberose"
+    ],
+    "base_notes": [
+      "vanilla",
+      "sandalwood"
+    ],
+    "occasions": [
+      "date_night",
+      "evening_events"
+    ],
+    "mood": "bold_seductive",
+    "strength": "strong",
+    "climate_fit": [
+      "ac_office",
+      "warm_evening"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Jimmy Choo I Want Choo",
+    "scent_families": [
+      "floral",
+      "gourmand"
+    ],
+    "top_notes": [
+      "mandarin",
+      "pink pepper"
+    ],
+    "mid_notes": [
+      "tuberose"
+    ],
+    "base_notes": [
+      "vanilla",
+      "musk"
+    ],
+    "occasions": [
+      "everyday",
+      "date_night"
+    ],
+    "mood": "sweet_playful",
+    "strength": "strong",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Jimmy Choo Floral",
+    "scent_families": [
+      "floral",
+      "fresh"
+    ],
+    "top_notes": [
+      "pear"
+    ],
+    "mid_notes": [
+      "peony"
+    ],
+    "base_notes": [
+      "musk"
+    ],
+    "occasions": [
+      "everyday",
+      "hot_daytime"
+    ],
+    "mood": "clean_refreshing",
+    "strength": "light",
+    "climate_fit": [
+      "hot_daytime",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Montblanc Individual",
+    "scent_families": [
+      "citrus",
+      "aromatic",
+      "woody"
+    ],
+    "top_notes": [
+      "bergamot",
+      "lime"
+    ],
+    "mid_notes": [
+      "basil"
+    ],
+    "base_notes": [
+      "woody notes"
+    ],
+    "occasions": [
+      "everyday",
+      "office"
+    ],
+    "mood": "clean_refreshing",
+    "strength": "light",
+    "climate_fit": [
+      "hot_daytime",
+      "any_weather"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Burberry Her",
+    "scent_families": [
+      "fruity",
+      "floral",
+      "sweet"
+    ],
+    "top_notes": [
+      "blackberry",
+      "cherry"
+    ],
+    "mid_notes": [
+      "violet"
+    ],
+    "base_notes": [
+      "musk",
+      "vanilla"
+    ],
+    "occasions": [
+      "everyday",
+      "date_night"
+    ],
+    "mood": "sweet_playful",
+    "strength": "moderate",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Giorgio Armani My Way",
+    "scent_families": [
+      "floral",
+      "white floral"
+    ],
+    "top_notes": [
+      "bergamot",
+      "orange blossom"
+    ],
+    "mid_notes": [
+      "tuberose"
+    ],
+    "base_notes": [
+      "white musk",
+      "vanilla"
+    ],
+    "occasions": [
+      "everyday",
+      "office"
+    ],
+    "mood": "elegant_sophisticated",
+    "strength": "moderate",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Elie Saab Girl of Now Lovely",
+    "scent_families": [
+      "floral",
+      "gourmand"
+    ],
+    "top_notes": [
+      "pistachio",
+      "pear"
+    ],
+    "mid_notes": [
+      "orange blossom"
+    ],
+    "base_notes": [
+      "tonka bean",
+      "musk"
+    ],
+    "occasions": [
+      "everyday",
+      "gift"
+    ],
+    "mood": "sweet_playful",
+    "strength": "moderate",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Elie Saab Girl of Now Forever",
+    "scent_families": [
+      "floral",
+      "fruity"
+    ],
+    "top_notes": [
+      "raspberry",
+      "lemon peel"
+    ],
+    "mid_notes": [
+      "black currant",
+      "rose"
+    ],
+    "base_notes": [
+      "vanilla",
+      "patchouli"
+    ],
+    "occasions": [
+      "everyday",
+      "gift"
+    ],
+    "mood": "sweet_playful",
+    "strength": "moderate",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Yves Saint Laurent Y Eau de Parfum",
+    "scent_families": [
+      "woody",
+      "aromatic",
+      "citrus"
+    ],
+    "top_notes": [
+      "apple",
+      "bergamot"
+    ],
+    "mid_notes": [
+      "sage",
+      "juniper"
+    ],
+    "base_notes": [
+      "cedar"
+    ],
+    "occasions": [
+      "office",
+      "everyday"
+    ],
+    "mood": "elegant_sophisticated",
+    "strength": "moderate",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Giorgio Armani Stronger With You Absolutely",
+    "scent_families": [
+      "oriental",
+      "fougere",
+      "gourmand"
+    ],
+    "top_notes": [
+      "rum",
+      "elemi",
+      "bergamot"
+    ],
+    "mid_notes": [
+      "lavender",
+      "davana"
+    ],
+    "base_notes": [
+      "vanilla",
+      "chestnut",
+      "cedar"
+    ],
+    "occasions": [
+      "evening_events"
+    ],
+    "mood": "dark_mysterious",
+    "strength": "very_strong",
+    "climate_fit": [
+      "warm_evening"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Giorgio Armani Emporio Armani Stronger With You Only",
+    "scent_families": [
+      "amber",
+      "aromatic",
+      "fresh"
+    ],
+    "top_notes": [
+      "bergamot"
+    ],
+    "mid_notes": [
+      "lavender"
+    ],
+    "base_notes": [
+      "chestnut",
+      "vanilla"
+    ],
+    "occasions": [
+      "everyday",
+      "office"
+    ],
+    "mood": "clean_refreshing",
+    "strength": "moderate",
+    "climate_fit": [
+      "hot_daytime",
+      "ac_office"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Giorgio Armani Emp Armani Stronger With You Amber",
+    "scent_families": [
+      "amber",
+      "spicy",
+      "sweet"
+    ],
+    "top_notes": [
+      "pink pepper"
+    ],
+    "mid_notes": [
+      "cinnamon"
+    ],
+    "base_notes": [
+      "amber",
+      "vanilla"
+    ],
+    "occasions": [
+      "evening_events",
+      "date_night"
+    ],
+    "mood": "luxurious_powerful",
+    "strength": "strong",
+    "climate_fit": [
+      "warm_evening"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Giorgio Armani Because Its You",
+    "scent_families": [
+      "floral",
+      "gourmand",
+      "sweet"
+    ],
+    "top_notes": [
+      "pink pepper",
+      "raspberry"
+    ],
+    "mid_notes": [
+      "jasmine",
+      "orange blossom"
+    ],
+    "base_notes": [
+      "vanilla",
+      "musk"
+    ],
+    "occasions": [
+      "date_night",
+      "gift"
+    ],
+    "mood": "sweet_playful",
+    "strength": "strong",
+    "climate_fit": [
+      "ac_office",
+      "warm_evening"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Giorgio Armani Stronger With You Intensely",
+    "scent_families": [
+      "oriental",
+      "fougere",
+      "sweet"
+    ],
+    "top_notes": [
+      "pink pepper",
+      "violet"
+    ],
+    "mid_notes": [
+      "toffee",
+      "cinnamon",
+      "lavender"
+    ],
+    "base_notes": [
+      "vanilla",
+      "amber",
+      "suede"
+    ],
+    "occasions": [
+      "evening_events",
+      "date_night"
+    ],
+    "mood": "luxurious_powerful",
+    "strength": "very_strong",
+    "climate_fit": [
+      "warm_evening"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Dior Dior Homme Intense",
+    "scent_families": [
+      "woody",
+      "floral",
+      "amber"
+    ],
+    "top_notes": [
+      "lavender"
+    ],
+    "mid_notes": [
+      "iris"
+    ],
+    "base_notes": [
+      "vetiver",
+      "amber"
+    ],
+    "occasions": [
+      "office",
+      "evening_events"
+    ],
+    "mood": "elegant_sophisticated",
+    "strength": "strong",
+    "climate_fit": [
+      "ac_office",
+      "warm_evening"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Dolce & Gabbana Devotion",
+    "scent_families": [
+      "floral",
+      "gourmand"
+    ],
+    "top_notes": [
+      "orange blossom"
+    ],
+    "mid_notes": [
+      "jasmine"
+    ],
+    "base_notes": [
+      "vanilla",
+      "musk"
+    ],
+    "occasions": [
+      "everyday",
+      "date_night"
+    ],
+    "mood": "sweet_playful",
+    "strength": "moderate",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Creed Aventus",
+    "scent_families": [
+      "fruity",
+      "woody",
+      "smoky"
+    ],
+    "top_notes": [
+      "pineapple",
+      "blackcurrant",
+      "apple"
+    ],
+    "mid_notes": [
+      "birch",
+      "patchouli"
+    ],
+    "base_notes": [
+      "musk",
+      "oakmoss",
+      "ambergris"
+    ],
+    "occasions": [
+      "office",
+      "evening_events"
+    ],
+    "mood": "luxurious_powerful",
+    "strength": "strong",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "men",
+    "classification": "niche"
+  },
+  {
+    "title": "Coach Dreams",
+    "scent_families": [
+      "floral",
+      "fruity"
+    ],
+    "top_notes": [
+      "pear",
+      "water jasmine"
+    ],
+    "mid_notes": [
+      "gardenia"
+    ],
+    "base_notes": [
+      "musk",
+      "cedar"
+    ],
+    "occasions": [
+      "everyday",
+      "hot_daytime"
+    ],
+    "mood": "clean_refreshing",
+    "strength": "light",
+    "climate_fit": [
+      "hot_daytime",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Carolina Herrera Chic",
+    "scent_families": [
+      "floral",
+      "fruity"
+    ],
+    "top_notes": [
+      "mandarin"
+    ],
+    "mid_notes": [
+      "jasmine"
+    ],
+    "base_notes": [
+      "musk",
+      "sandalwood"
+    ],
+    "occasions": [
+      "everyday",
+      "office"
+    ],
+    "mood": "elegant_sophisticated",
+    "strength": "moderate",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Chanel Chance Eau Fraiche",
+    "scent_families": [
+      "floral",
+      "citrus",
+      "fresh"
+    ],
+    "top_notes": [
+      "citron",
+      "pink pepper"
+    ],
+    "mid_notes": [
+      "jasmine"
+    ],
+    "base_notes": [
+      "musk",
+      "amber"
+    ],
+    "occasions": [
+      "everyday",
+      "hot_daytime"
+    ],
+    "mood": "clean_refreshing",
+    "strength": "light",
+    "climate_fit": [
+      "hot_daytime",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Chanel Allure Homme Sport",
+    "scent_families": [
+      "citrus",
+      "aromatic",
+      "woody"
+    ],
+    "top_notes": [
+      "sicilian mandarin"
+    ],
+    "mid_notes": [
+      "neroli"
+    ],
+    "base_notes": [
+      "cedar",
+      "musk"
+    ],
+    "occasions": [
+      "everyday",
+      "office"
+    ],
+    "mood": "clean_refreshing",
+    "strength": "moderate",
+    "climate_fit": [
+      "hot_daytime",
+      "ac_office"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Bvlgari Man in Black",
+    "scent_families": [
+      "amber",
+      "spicy",
+      "leather"
+    ],
+    "top_notes": [
+      "spices"
+    ],
+    "mid_notes": [
+      "leather",
+      "tuberose"
+    ],
+    "base_notes": [
+      "tonka bean",
+      "amber"
+    ],
+    "occasions": [
+      "evening_events",
+      "office"
+    ],
+    "mood": "luxurious_powerful",
+    "strength": "strong",
+    "climate_fit": [
+      "warm_evening",
+      "ac_office"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Bvlgari Wood Neroli",
+    "scent_families": [
+      "woody",
+      "citrus",
+      "aromatic"
+    ],
+    "top_notes": [
+      "neroli",
+      "bergamot"
+    ],
+    "mid_notes": [
+      "woody notes"
+    ],
+    "base_notes": [
+      "musk"
+    ],
+    "occasions": [
+      "everyday",
+      "office"
+    ],
+    "mood": "clean_refreshing",
+    "strength": "moderate",
+    "climate_fit": [
+      "hot_daytime",
+      "ac_office"
+    ],
+    "gender_position": "unisex",
+    "classification": "designer"
+  },
+  {
+    "title": "Bvlgari Glacial Essence",
+    "scent_families": [
+      "aromatic",
+      "fresh",
+      "aquatic"
+    ],
+    "top_notes": [
+      "grapefruit"
+    ],
+    "mid_notes": [
+      "water notes"
+    ],
+    "base_notes": [
+      "musk",
+      "amber"
+    ],
+    "occasions": [
+      "everyday",
+      "hot_daytime"
+    ],
+    "mood": "clean_refreshing",
+    "strength": "light",
+    "climate_fit": [
+      "hot_daytime",
+      "any_weather"
+    ],
+    "gender_position": "unisex",
+    "classification": "designer"
+  },
+  {
+    "title": "Burberry Goddess",
+    "scent_families": [
+      "floral",
+      "amber"
+    ],
+    "top_notes": [
+      "bergamot"
+    ],
+    "mid_notes": [
+      "jasmine"
+    ],
+    "base_notes": [
+      "amber",
+      "vanilla"
+    ],
+    "occasions": [
+      "evening_events",
+      "date_night"
+    ],
+    "mood": "elegant_sophisticated",
+    "strength": "strong",
+    "climate_fit": [
+      "ac_office",
+      "warm_evening"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Britney Spears Fantasy",
+    "scent_families": [
+      "fruity",
+      "gourmand",
+      "sweet"
+    ],
+    "top_notes": [
+      "kiwi",
+      "red lychee"
+    ],
+    "mid_notes": [
+      "jasmine",
+      "white chocolate"
+    ],
+    "base_notes": [
+      "vanilla",
+      "musk"
+    ],
+    "occasions": [
+      "everyday",
+      "gift"
+    ],
+    "mood": "sweet_playful",
+    "strength": "moderate",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Chanel Bleu de Chanel Parfum",
+    "scent_families": [
+      "woody",
+      "amber",
+      "aromatic"
+    ],
+    "top_notes": [
+      "grapefruit",
+      "mint"
+    ],
+    "mid_notes": [
+      "ginger"
+    ],
+    "base_notes": [
+      "sandalwood",
+      "amber"
+    ],
+    "occasions": [
+      "office",
+      "evening_events"
+    ],
+    "mood": "elegant_sophisticated",
+    "strength": "strong",
+    "climate_fit": [
+      "ac_office",
+      "warm_evening"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Chanel Bleu de Chanel Eau de Parfum",
+    "scent_families": [
+      "woody",
+      "citrus",
+      "aromatic"
+    ],
+    "top_notes": [
+      "grapefruit",
+      "lemon"
+    ],
+    "mid_notes": [
+      "ginger",
+      "nutmeg"
+    ],
+    "base_notes": [
+      "sandalwood",
+      "cedar"
+    ],
+    "occasions": [
+      "office",
+      "everyday"
+    ],
+    "mood": "elegant_sophisticated",
+    "strength": "moderate",
+    "climate_fit": [
+      "hot_daytime",
+      "ac_office"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Giorgio Armani Si Passione Eclat",
+    "scent_families": [
+      "floral",
+      "fruity",
+      "sweet"
+    ],
+    "top_notes": [
+      "black currant",
+      "mandarin"
+    ],
+    "mid_notes": [
+      "rose"
+    ],
+    "base_notes": [
+      "vanilla",
+      "musk"
+    ],
+    "occasions": [
+      "everyday",
+      "date_night"
+    ],
+    "mood": "sweet_playful",
+    "strength": "strong",
+    "climate_fit": [
+      "ac_office",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Giorgio Armani Si Intense",
+    "scent_families": [
+      "floral",
+      "gourmand",
+      "sweet"
+    ],
+    "top_notes": [
+      "black currant"
+    ],
+    "mid_notes": [
+      "rose",
+      "freesia"
+    ],
+    "base_notes": [
+      "vanilla",
+      "patchouli"
+    ],
+    "occasions": [
+      "date_night",
+      "evening_events"
+    ],
+    "mood": "bold_seductive",
+    "strength": "strong",
+    "climate_fit": [
+      "ac_office",
+      "warm_evening"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Bvlgari Aqva",
+    "scent_families": [
+      "aquatic",
+      "citrus",
+      "woody"
+    ],
+    "top_notes": [
+      "sea notes",
+      "lime"
+    ],
+    "mid_notes": [
+      "seaweed"
+    ],
+    "base_notes": [
+      "musk",
+      "amber"
+    ],
+    "occasions": [
+      "everyday",
+      "hot_daytime"
+    ],
+    "mood": "clean_refreshing",
+    "strength": "moderate",
+    "climate_fit": [
+      "hot_daytime",
+      "any_weather"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  },
+  {
+    "title": "Carolina Herrera 212",
+    "scent_families": [
+      "floral",
+      "musk",
+      "fresh"
+    ],
+    "top_notes": [
+      "chinese cactus flower"
+    ],
+    "mid_notes": [
+      "bamboo"
+    ],
+    "base_notes": [
+      "musk",
+      "amber"
+    ],
+    "occasions": [
+      "everyday",
+      "office"
+    ],
+    "mood": "clean_refreshing",
+    "strength": "light",
+    "climate_fit": [
+      "hot_daytime",
+      "any_weather"
+    ],
+    "gender_position": "women",
+    "classification": "designer"
+  },
+  {
+    "title": "Paco Rabanne Royal",
+    "scent_families": [
+      "amber",
+      "spicy",
+      "gourmand"
+    ],
+    "top_notes": [
+      "saffron"
+    ],
+    "mid_notes": [
+      "cinnamon"
+    ],
+    "base_notes": [
+      "amber",
+      "vanilla"
+    ],
+    "occasions": [
+      "evening_events",
+      "office"
+    ],
+    "mood": "luxurious_powerful",
+    "strength": "very_strong",
+    "climate_fit": [
+      "warm_evening"
+    ],
+    "gender_position": "men",
+    "classification": "designer"
+  }
+]

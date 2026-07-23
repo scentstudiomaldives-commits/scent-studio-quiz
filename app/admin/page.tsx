@@ -3,6 +3,7 @@ import Link from "next/link";
 export default function AdminHome() {
   const links = [
     { href: "/admin/products", label: "Product Attributes", desc: "Edit scent families, notes, mood, climate fit per product" },
+    { href: "/admin/bulk-import", label: "Bulk Import", desc: "Paste a JSON batch of attributes and save them all at once" },
     { href: "/admin/weights", label: "Scoring Weights", desc: "Adjust how much each factor counts, and budget ranges" },
     { href: "/admin/analytics", label: "Analytics", desc: "Most selected preferences, top recommendations, conversions" },
   ];
